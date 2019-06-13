@@ -49,4 +49,6 @@ List of latest Knowledge Graph Embedding papers with their performance on Link P
 
 ## Papers
 
-  1. DihEdral: Relation Embedding with Dihedral Group in Knowledge Graph [[Paper](https://arxiv.org/pdf/1906.00687.pdf)][[Code]()]
+  1. DihEdral: Relation Embedding with Dihedral Group in Knowledge Graph - ACL-2019 [[Paper](https://arxiv.org/pdf/1906.00687.pdf)][[Code]()]
+  2. RotatE: RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space - ICLR 2019 [[Paper](https://openreview.net/forum?id=HkgEQnRqYQ)][[Code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
+  3. TuckER: Tensor Factorization for Knowledge Graph Completion - ArXiv [[Paper](https://arxiv.org/pdf/1901.09590.pdf)][[Code](https://github.com/ibalazevic/TuckER)]
